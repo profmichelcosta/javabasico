@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MetodosFuncoes
+comment0.text=\r\n\ Escreva\ uma\ descri\u00E7\u00E3o\ da\ classe\ MetodosFuncoes\ aqui.\r\n\ \r\n\ @author\ (seu\ nome)\ \r\n\ @version\ (um\ n\u00FAmero\ da\ vers\u00E3o\ ou\ uma\ data)\r\n
+comment1.params=
+comment1.target=void\ helloWord()
+comment2.params=a\ b
+comment2.target=int\ Somar(int,\ int)
+comment3.params=a\ b
+comment3.target=int\ Subtrair(int,\ int)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
